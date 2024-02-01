@@ -1,7 +1,7 @@
 
-## Episode 01 - Inception
+# Episode 01 - Inception
 
-# Theory :
+## Theory :
 What is Emmet?
 What is CDN? Why do we use it?
 Why is React known as React?
@@ -9,7 +9,7 @@ What is crossorigin in script tag?
 What is difference between React and ReactDOM?
 What is difference between react.development.js and react.production.js files via CDN?
 
-# Coding :
+## Coding :
 
 Set up all the tools in your laptop
 VS Code
@@ -27,7 +27,7 @@ Use root.render
 Push code to Github (Theory as well as code)
 Learn about Arrow Functions before the next class
 
-# References:
+## References:
 
 https://beta.reactjs.org/apis/react/createElement
 https://www.youtube.com/watch?v=IrHmpdORLu8
