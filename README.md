@@ -1,4 +1,4 @@
-# [Namaste-React](url)
+# [Namaste-React](README.md)
 
 ## [Episode 01 - Inception](URL)
 
