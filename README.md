@@ -1,4 +1,4 @@
-# [Namaste-React](URL)
+# [Namaste-React](url)
 
 ## [Episode 01 - Inception](URL)
 
