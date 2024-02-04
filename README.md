@@ -4,7 +4,7 @@
 
 ### [file](https://github.com/mohdarish4/Namaste-React/tree/main/Episode%2001%20-%20Inception/file)
 
-### [Assignment.md](https://github.com/mohdarish4/Namaste-React/tree/main/Episode%2001%20-%20Inception)
+### [Assignment.md](https://github.com/mohdarish4/Namaste-React/blob/main/Episode%2001%20-%20Inception/Assignment.md)
 
 ### [Homework.md](https://github.com/mohdarish4/Namaste-React/blob/main/Episode%2001%20-%20Inception/Homework.md)
 
